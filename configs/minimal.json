@@ -1,0 +1,20 @@
+{
+  "scenario": "minimal",
+  "city_type": "Manhattan",
+  "length_miles": 3.6,
+  "speed_mph": 18.0,
+  "duration_hours": 1.0,
+  "fleet_size": 20,
+  "arrival_rate_per_hour": 50.0,
+  "resolution_seconds": 1.0,
+  "policy": "sharing",
+  "detour_distance_miles": 1.0,
+  "batch_interval_seconds": 60.0,
+  "pickup_radius_miles": null,
+  "local_reallocation": false,
+  "swap": false,
+  "seeds": {"demand_locations": 3, "vehicle_locations": 4, "arrivals": 2},
+  "snapshot_seconds": 60.0,
+  "animation_fps": 10,
+  "output_dir": "results/minimal"
+}

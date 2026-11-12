@@ -1,0 +1,14 @@
+{
+  "nodes": 686,
+  "directed_link_rows": 1832,
+  "duplicate_directed_pairs": 67,
+  "used_by_minimal_manhattan_simulation": false,
+  "coordinate_crs": "not documented by upstream; raw values preserved",
+  "upstream_commit": "f46db88dcabad541cb08d5fbb0ff95f027c8d2ad",
+  "weak_components": 12,
+  "weak_largest_component_nodes": 642,
+  "strong_components": 32,
+  "strong_largest_component_nodes": 622,
+  "node.xls_sha256": "b0684d565e006d0aff6a6db6665fc26520142994874137ceee1697fe36125a62",
+  "link.xls_sha256": "fd157d29e36a7107e3ff1f83fb263a15f93048fc9c2060ca25f157991c93a526"
+}

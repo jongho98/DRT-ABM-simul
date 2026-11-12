@@ -1,0 +1,6 @@
+upstream/yuhuizhai/** -text -whitespace
+*.xls binary
+*.xlsx binary
+*.sqlite binary
+*.png binary
+*.gif binary

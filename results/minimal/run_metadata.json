@@ -1,0 +1,32 @@
+{
+  "created_at_utc": "2026-11-12T04:49:05.146238+00:00",
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "Pillow": "13.0.0",
+    "xlrd": "2.0.1",
+    "XlsxWriter": "3.2.9"
+  },
+  "upstream_commit": "f46db88dcabad541cb08d5fbb0ff95f027c8d2ad",
+  "config_sha256": "48ed3b46be7f31560b1b09447ce5c40c75fc19e72754a116ad0fa64bb675416a",
+  "source_sha256": {
+    "run_simulation.py": "a48e0a6e43a23e5e4e5ee1448547e2589c5dd7ad2cd540dd4357428be947bb92",
+    "src/drt_abm/__init__.py": "68edcb7c4b31259026ba2cd720f2c946dc4a8c3f38645b20053ac8c1539b8aba",
+    "src/drt_abm/animation.py": "21f5fe4eaad57158e2f91459b5169b856ead24a01e5b568cbef27485ed12e8f9",
+    "src/drt_abm/city.py": "ec54a0e4d53441e525f9861e626f7bf61169722e1ee5ee1f79093ad83a330216",
+    "src/drt_abm/eventQueue.py": "e5675fc0ee491f97aeaca905663556fb94a0af21eff66e3c6563b36411d499b4",
+    "src/drt_abm/fleet.py": "5a32f930c2f6016f8b6a5b3b0076fc886fe905306b671d50ee76ea9644265829",
+    "src/drt_abm/passenger.py": "3f60bf9a97600306b2aff5bc169507993879c744878f004530e02447faa3e83a",
+    "src/drt_abm/runner.py": "52c58f8f73f60317dccfc477121bf36378e477797dca569289dfce661abdbb18",
+    "src/drt_abm/taxi_simul/__init__.py": "b7121d7ce617ff26cb0a685efac33a6bc824b257bf18f935e104191eafb11872",
+    "src/drt_abm/taxi_simul/fleet_taxi.py": "48be6821d400cd76a344fd663146e0216517be8b37487532e9a303305034d325",
+    "src/drt_abm/taxi_simul/simulation.py": "125db5dc147a9e92279a0a8e310020e3b9d512d04b2f92e92bea3a18b8b9e205",
+    "src/drt_abm/taxi_simul/taxi.py": "7f69bc6d29b5dae81e8a387205398fb5c1cbbe5fc13ede7efd0e38aaee63e925",
+    "src/drt_abm/unit.py": "4762ceefac6bd12d5da8a91257aa0a11396239b8d7ffc6685c8907ebc7fc9037",
+    "src/drt_abm/utils.py": "975c976f3b719016c43b8a3171a1eeae061bc8d68d8ef7bb61d7daa475ba236b"
+  },
+  "numerical_reproducibility": "Seeded input and deterministic ID tie-breaking; compare CSV/summary, not GIF/XLSX binary bytes."
+}

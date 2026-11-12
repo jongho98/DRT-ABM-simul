@@ -1,0 +1,90 @@
+{
+  "repository": "https://github.com/YuhuiZhai/Agent-Based-Simulation-for-Multi-Zone-Ride-pooling-Service",
+  "commit": "f46db88dcabad541cb08d5fbb0ff95f027c8d2ad",
+  "files": {
+    "README.md": {
+      "git_blob_sha": "5e48e5db69de0127572b1ada4167e8655d8de417",
+      "archived_path": "upstream/yuhuizhai/README.md"
+    },
+    "main.py": {
+      "git_blob_sha": "5fb2d382a2f40a38ef03c6730af1425d32cb5074",
+      "archived_path": "upstream/yuhuizhai/main.py"
+    },
+    "city.py": {
+      "git_blob_sha": "6a7b7ddee64763f6d01054326dd1f4102704bf6b",
+      "archived_path": "upstream/yuhuizhai/city.py"
+    },
+    "eventQueue.py": {
+      "git_blob_sha": "a8701236822dd51f94539393b30ae8d430298674",
+      "archived_path": "upstream/yuhuizhai/eventQueue.py"
+    },
+    "fleet.py": {
+      "git_blob_sha": "6f4a901c8c5a72d36cf73d2e969e264a75126879",
+      "archived_path": "upstream/yuhuizhai/fleet.py"
+    },
+    "unit.py": {
+      "git_blob_sha": "01cb4c0d6cc0a9111acf84fb73cef0a39e9174a3",
+      "archived_path": "upstream/yuhuizhai/unit.py"
+    },
+    "utils.py": {
+      "git_blob_sha": "c4f9600944c8bbd1d75e99c585200e3fe9e3dda9",
+      "archived_path": "upstream/yuhuizhai/utils.py"
+    },
+    "passenger.py": {
+      "git_blob_sha": "7b0b276b4eeec71ea2d18181de8fa42a3784e527",
+      "archived_path": "upstream/yuhuizhai/passenger.py"
+    },
+    "animation.py": {
+      "git_blob_sha": "b6b44942dca9ab78c2579f7103ddb19c390d43be",
+      "archived_path": "upstream/yuhuizhai/animation.py"
+    },
+    "gui.py": {
+      "git_blob_sha": "79038e4ed65eae1caa36e405407afe0855d4e16f",
+      "archived_path": "upstream/yuhuizhai/gui.py"
+    },
+    "multiprocess_batch.py": {
+      "git_blob_sha": "a5fd81b9871ab6b4357b36c73bc74917723513d0",
+      "archived_path": "upstream/yuhuizhai/multiprocess_batch.py"
+    },
+    "multiprocess_sharing.py": {
+      "git_blob_sha": "86a23904a915f3f0032dfc4d42551c26192e2304",
+      "archived_path": "upstream/yuhuizhai/multiprocess_sharing.py"
+    },
+    "taxi_simul/fleet_taxi.py": {
+      "git_blob_sha": "3ee28c2a86243ca3b1a1d18aa14b25cf098aba29",
+      "archived_path": "upstream/yuhuizhai/taxi_simul/fleet_taxi.py"
+    },
+    "taxi_simul/simulation.py": {
+      "git_blob_sha": "ba3b1be34560e6bcedfba16d80eccc7ea5486e82",
+      "archived_path": "upstream/yuhuizhai/taxi_simul/simulation.py"
+    },
+    "taxi_simul/taxi.py": {
+      "git_blob_sha": "692bb54ecb4592741c0fed6b3905f41203423793",
+      "archived_path": "upstream/yuhuizhai/taxi_simul/taxi.py"
+    },
+    "bus_simul/bus.py": {
+      "git_blob_sha": "4aa93b7258e07a98440bdc56be2519292c179c40",
+      "archived_path": "upstream/yuhuizhai/bus_simul/bus.py"
+    },
+    "bus_simul/fleet_bus.py": {
+      "git_blob_sha": "16f2093980f0ab6be88ccc0f9829a8715b24469d",
+      "archived_path": "upstream/yuhuizhai/bus_simul/fleet_bus.py"
+    },
+    "bus_simul/simulation_bus.py": {
+      "git_blob_sha": "15080b82ca44cf430c2f080168bfa882dbaa378e",
+      "archived_path": "upstream/yuhuizhai/bus_simul/simulation_bus.py"
+    },
+    "test.py": {
+      "git_blob_sha": "30daf9d458b4789ff23186bc404c356291b25ba0",
+      "archived_path": "upstream/yuhuizhai/test.py"
+    },
+    "node.xls": {
+      "git_blob_sha": "5e47e8b1b72509faad08c4e3a8616153d4636354",
+      "archived_path": "data/raw/node.xls"
+    },
+    "link.xls": {
+      "git_blob_sha": "63e2dea7ce0d31a2a0879d60b53847009c604f9d",
+      "archived_path": "data/raw/link.xls"
+    }
+  }
+}

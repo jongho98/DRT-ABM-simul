@@ -1,0 +1,3 @@
+-r requirements.txt
+# Only for the experimental multi-zone global-reallocation solver.
+PuLP>=2.7,<4

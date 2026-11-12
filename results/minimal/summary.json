@@ -1,0 +1,35 @@
+{
+  "scenario": "minimal",
+  "policy": "sharing",
+  "requests_generated": 54,
+  "requests_assigned": 54,
+  "requests_completed": 45,
+  "requests_rejected": 0,
+  "requests_unfinished_at_end": 9,
+  "completion_rate": 0.8333333333333334,
+  "rejection_rate": 0.0,
+  "assigned_to_busy_vehicle_count": 5,
+  "experienced_shared_ride_count": 9,
+  "completed_mean_wait_min": 2.7701160827749676,
+  "completed_p95_wait_min": 5.660367999403304,
+  "completed_mean_ride_min": 7.055555555555907,
+  "completed_mean_total_min": 9.825671638330874,
+  "observed_pickup_mean_wait_min": 2.7975895433594378,
+  "fleet_size": 20,
+  "duration_hours": 1.0,
+  "status_counts": {
+    "completed": 45,
+    "onboard": 7,
+    "waiting_pickup": 2
+  },
+  "definitions": {
+    "completion_rate": "completed / all requests generated within [0,T)",
+    "completed_mean_wait_min": "request-to-pickup, completed requests only",
+    "assigned_to_busy_vehicle_count": "new requests inserted into an already serving vehicle",
+    "experienced_shared_ride_count": "passengers who actually overlapped onboard with another passenger",
+    "unfinished": "waiting_assignment, waiting_pickup or onboard at T; not rejection",
+    "drain_period": "none; simulation stops at T"
+  },
+  "vehicle_conservation_passed": true,
+  "request_accounting_passed": true
+}
